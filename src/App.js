@@ -12,6 +12,7 @@ function App() {
           A Fourth Commit
           A Fifth Commit
           A Sixth Commit
+          A Seventh Commit
         </p>
         <a
           className="App-link"
